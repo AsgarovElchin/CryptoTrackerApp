@@ -1,4 +1,4 @@
-package com.elchinasgarov.cryptotracker.util
+package com.elchinasgarov.cryptotracker.core.domain.util
 
 typealias DomainError = Error
 

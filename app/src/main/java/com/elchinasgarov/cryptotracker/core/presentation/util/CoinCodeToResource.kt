@@ -1,4 +1,4 @@
-package com.elchinasgarov.cryptotracker.util
+package com.elchinasgarov.cryptotracker.core.presentation.util
 
 import com.elchinasgarov.cryptotracker.R
 
